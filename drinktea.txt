@@ -1,0 +1,15 @@
+/macroicon "Drink Tea" Emote
+/tea motion <wait.10.0>
+/tea motion <wait.10.0>
+/tea motion <wait.10.0>
+/tea motion <wait.10.0>
+/tea motion <wait.10.0>
+/tea motion <wait.10.0>
+/tea motion <wait.10.0>
+/tea motion <wait.10.0>
+/tea motion <wait.10.0>
+/tea motion <wait.10.0>
+/tea motion <wait.10.0>
+/tea motion <wait.10.0>
+/tea motion <wait.10.0>
+/tea motion <wait.10.0>
